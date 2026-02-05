@@ -1,0 +1,13 @@
+{
+  "name": "minimal-ethereum-wallet-provider",
+  "version": "1.0.0",
+  "description": "Expert-level minimal Ethereum provider implementation",
+  "main": "provider.js",
+  "dependencies": {
+    "ethereumjs-util": "^7.1.5",
+    "ethereumjs-tx": "^2.1.2",
+    "elliptic": "^6.5.4"
+  },
+  "author": "Blockchain Dev",
+  "license": "MIT"
+}
